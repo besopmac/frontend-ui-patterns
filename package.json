@@ -1,0 +1,25 @@
+{
+  "name": "frontend-ui-patterns",
+  "version": "1.0.0",
+  "description": "A collection of UI patterns and your development ways",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besopmac/frontend-ui-patterns.git"
+  },
+  "keywords": [
+    "patterns",
+    "front-end",
+    "collection",
+    "ui"
+  ],
+  "author": "Bruno Campos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/besopmac/frontend-ui-patterns/issues"
+  },
+  "homepage": "https://github.com/besopmac/frontend-ui-patterns#readme"
+}
